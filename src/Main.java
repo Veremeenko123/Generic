@@ -1,5 +1,5 @@
 
-public class Main {//ddddd
+public class Main {//dd
     public static void main(String[] args) {
         Generic <String, String, String> generic = new Generic<>("ob","ob2","ob3");
         System.out.println(generic);
