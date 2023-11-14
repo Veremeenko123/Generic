@@ -1,4 +1,4 @@
-//Веремеенко Д ИС-3
+//Веремеенко Даниил ИС-3
 public class Generic<T,V,K> {
 
        private T ob;
